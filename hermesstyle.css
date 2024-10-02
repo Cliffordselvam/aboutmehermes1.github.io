@@ -1,0 +1,85 @@
+.bodyclass {
+    background-color: aliceblue;
+    padding: 2%;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.home-button {
+    color: yellow;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.contactbutton {
+    margin-left: 40%;
+}
+
+.ulclass{
+    list-style: none;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.contact-button, .download-button {
+    background-color: rgb(33, 20, 215);
+    border: none;
+    color: aliceblue;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
+}
+
+.nameclass {
+    background-color: rgb(102, 189, 111);
+    line-height: 500%;
+    text-align: center;
+    font-size: large; 
+    font-weight: 800;
+}
+
+.profilepic-class {
+    float: left;
+    max-height: 900px;
+    width: 30%;
+    
+    
+}
+
+.aboutme {
+    
+    text-align: center;
+}
+
+.twobutton-class {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+.download-button {
+    margin-left: 20%;
+}
+
+.footer-class {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+
+.red-bar {
+    background-color: rgb(245, 12, 20);
+    padding: 1%;
+    height: 15px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
